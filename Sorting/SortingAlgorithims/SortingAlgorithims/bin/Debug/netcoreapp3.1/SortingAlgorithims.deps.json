@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SortingAlgorithims/1.0.0": {
+        "runtime": {
+          "SortingAlgorithims.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortingAlgorithims/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

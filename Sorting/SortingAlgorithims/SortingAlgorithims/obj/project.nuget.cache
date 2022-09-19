@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMr3ixv6DtfbUcNHl3Y+XBeD3Cw0aKzImafPkvHbw7//NiCWOGZyThP6HNJ2ezPybbofEMemu9fnQRbGGR2AiA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\SortingAlgorithims\\SortingAlgorithims\\SortingAlgorithims.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmaharaj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
