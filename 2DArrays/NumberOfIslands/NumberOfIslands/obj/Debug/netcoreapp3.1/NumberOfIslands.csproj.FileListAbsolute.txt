@@ -1,0 +1,13 @@
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\obj\Debug\netcoreapp3.1\NumberOfIslands.csproj.AssemblyReference.cache
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\obj\Debug\netcoreapp3.1\NumberOfIslands.AssemblyInfoInputs.cache
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\obj\Debug\netcoreapp3.1\NumberOfIslands.AssemblyInfo.cs
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\obj\Debug\netcoreapp3.1\NumberOfIslands.csproj.CoreCompileInputs.cache
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\bin\Debug\netcoreapp3.1\NumberOfIslands.exe
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\bin\Debug\netcoreapp3.1\NumberOfIslands.deps.json
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\bin\Debug\netcoreapp3.1\NumberOfIslands.runtimeconfig.json
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\bin\Debug\netcoreapp3.1\NumberOfIslands.runtimeconfig.dev.json
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\bin\Debug\netcoreapp3.1\NumberOfIslands.dll
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\bin\Debug\netcoreapp3.1\NumberOfIslands.pdb
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\obj\Debug\netcoreapp3.1\NumberOfIslands.dll
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\obj\Debug\netcoreapp3.1\NumberOfIslands.pdb
+C:\Dev\2DArrays\NumberOfIslands\NumberOfIslands\obj\Debug\netcoreapp3.1\NumberOfIslands.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EVy3m+EEmHz7+RUmIZ51n1UWOU/IeNW8JZFKhMVrkUyDQhtiAVVYvgkHqGX8qmwoOl8v00jkCab3eHJSheGMxA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\2DArrays\\WallsAndGates\\WallsAndGates\\WallsAndGates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmaharaj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

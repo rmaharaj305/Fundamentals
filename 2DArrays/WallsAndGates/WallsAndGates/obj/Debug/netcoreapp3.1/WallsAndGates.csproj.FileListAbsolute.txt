@@ -1,0 +1,13 @@
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\bin\Debug\netcoreapp3.1\WallsAndGates.exe
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\bin\Debug\netcoreapp3.1\WallsAndGates.deps.json
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\bin\Debug\netcoreapp3.1\WallsAndGates.runtimeconfig.json
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\bin\Debug\netcoreapp3.1\WallsAndGates.runtimeconfig.dev.json
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\bin\Debug\netcoreapp3.1\WallsAndGates.dll
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\bin\Debug\netcoreapp3.1\WallsAndGates.pdb
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\obj\Debug\netcoreapp3.1\WallsAndGates.csproj.AssemblyReference.cache
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\obj\Debug\netcoreapp3.1\WallsAndGates.AssemblyInfoInputs.cache
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\obj\Debug\netcoreapp3.1\WallsAndGates.AssemblyInfo.cs
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\obj\Debug\netcoreapp3.1\WallsAndGates.csproj.CoreCompileInputs.cache
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\obj\Debug\netcoreapp3.1\WallsAndGates.dll
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\obj\Debug\netcoreapp3.1\WallsAndGates.pdb
+C:\Dev\2DArrays\WallsAndGates\WallsAndGates\obj\Debug\netcoreapp3.1\WallsAndGates.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRmm24b/iMXaEbYb8S3FC7V/MEwo4JWmo0lKCmkwSDIlrsL2B1GAZjx1aE+LZdnJLYIbLn0xvJE90G3OcIns8A==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\2DArrays\\NumberOfIslands\\NumberOfIslands\\NumberOfIslands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmaharaj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

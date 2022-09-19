@@ -1,0 +1,13 @@
+C:\Dev\2DArrays\RottingOranges\RottingOranges\bin\Debug\netcoreapp3.1\RottingOranges.exe
+C:\Dev\2DArrays\RottingOranges\RottingOranges\bin\Debug\netcoreapp3.1\RottingOranges.deps.json
+C:\Dev\2DArrays\RottingOranges\RottingOranges\bin\Debug\netcoreapp3.1\RottingOranges.runtimeconfig.json
+C:\Dev\2DArrays\RottingOranges\RottingOranges\bin\Debug\netcoreapp3.1\RottingOranges.runtimeconfig.dev.json
+C:\Dev\2DArrays\RottingOranges\RottingOranges\bin\Debug\netcoreapp3.1\RottingOranges.dll
+C:\Dev\2DArrays\RottingOranges\RottingOranges\bin\Debug\netcoreapp3.1\RottingOranges.pdb
+C:\Dev\2DArrays\RottingOranges\RottingOranges\obj\Debug\netcoreapp3.1\RottingOranges.csproj.AssemblyReference.cache
+C:\Dev\2DArrays\RottingOranges\RottingOranges\obj\Debug\netcoreapp3.1\RottingOranges.AssemblyInfoInputs.cache
+C:\Dev\2DArrays\RottingOranges\RottingOranges\obj\Debug\netcoreapp3.1\RottingOranges.AssemblyInfo.cs
+C:\Dev\2DArrays\RottingOranges\RottingOranges\obj\Debug\netcoreapp3.1\RottingOranges.csproj.CoreCompileInputs.cache
+C:\Dev\2DArrays\RottingOranges\RottingOranges\obj\Debug\netcoreapp3.1\RottingOranges.dll
+C:\Dev\2DArrays\RottingOranges\RottingOranges\obj\Debug\netcoreapp3.1\RottingOranges.pdb
+C:\Dev\2DArrays\RottingOranges\RottingOranges\obj\Debug\netcoreapp3.1\RottingOranges.genruntimeconfig.cache

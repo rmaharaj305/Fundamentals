@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2se+6lATHVlLq/PDDyU/7QaStuN4lf6Chw7LRKWF2feK1ilnPP9Akka1yKLL8O+XcPhvi6gSjtKce0HB5jNhnA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\2DArrays\\RottingOranges\\RottingOranges\\RottingOranges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmaharaj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
